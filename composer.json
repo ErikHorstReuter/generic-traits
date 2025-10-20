@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "name": "erik/generic-traits",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Erik\\GenericTraits\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erik Horst Reuter",
+            "email": "erik.horst.reuter@outlook.de"
+        }
+    ],
+    "require": {}
+}
