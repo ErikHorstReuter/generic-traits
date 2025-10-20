@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Core\GenericTrait;
+namespace Core\GenericTraits\GenericTrait;
 
 use ArrayAccess;
 
